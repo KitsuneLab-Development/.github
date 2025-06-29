@@ -53,7 +53,7 @@ We are a multinational team of developers who, in our free time, create open-sou
   
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://kitsune-lab.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://kitsune-lab.com/p/discord)
-[![Hire Us](https://img.shields.io/badge/-Hire_Us-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://kitsune-lab.com/tickets/create?department_id=2)
+[![Hire Us](https://img.shields.io/badge/-Hire_Us-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://kitsune-lab.com/tickets)
 
 </div>
 
